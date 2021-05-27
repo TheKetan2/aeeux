@@ -21,10 +21,10 @@
 <!--Visits counter-->
 <h3>
 Thanks for stopping by I hope you'll enjoy my projects! &nbsp; 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
+  <a target="_blank" rel="noopener noreferrer" 
+     <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
+  </a>
 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
 
 - 🌱 I’m currently learning **Vue.js, React & React Native**
 
