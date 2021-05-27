@@ -91,6 +91,6 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
 
-<p>&nbsp;<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
+<p>&nbsp;<img align="left" width="390px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&" alt="aeeux" /></p>
