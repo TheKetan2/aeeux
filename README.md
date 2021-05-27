@@ -86,10 +86,10 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
 
