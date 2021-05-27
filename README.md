@@ -49,10 +49,6 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
   
-  <a href="https://www.gatsbyjs.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
-  </a>
-  
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
@@ -71,6 +67,10 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.gatsbyjs.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
   </a>
   
   <a href="https://sass-lang.com" target="_blank"> 
