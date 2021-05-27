@@ -88,8 +88,8 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
 
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/aeeux/aeeux/blob/main/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/aeeux/aeeux/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
 
