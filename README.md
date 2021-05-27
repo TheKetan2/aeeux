@@ -43,6 +43,10 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
   
   <a href="https://firebase.google.com/" target="_blank"> 
@@ -72,10 +76,6 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   <a href="https://www.gatsbyjs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> 
   </a>
-  
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
   
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
