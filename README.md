@@ -19,7 +19,7 @@
 <!--Visits counter-->
 <h3>
 Thanks for stopping by I hope you'll enjoy my projects! &nbsp; 
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f80225b9df4164161ec409acf46dee3afa27b55e78b9c928845e3415ec92093e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d47617075722e4761707572"><img src="https://camo.githubusercontent.com/f80225b9df4164161ec409acf46dee3afa27b55e78b9c928845e3415ec92093e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d47617075722e4761707572" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Aeeux.Aeeux" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" src="https://camo.githubusercontent.com/f80225b9df4164161ec409acf46dee3afa27b55e78b9c928845e3415ec92093e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d47617075722e4761707572" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Aeeux.Aeeux" style="max-width:100%;">
   </a>
 </h3>
   
