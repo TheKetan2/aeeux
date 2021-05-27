@@ -89,8 +89,8 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p><img align="center" width="380px" border-radius="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
+<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
 
-<p>&nbsp;<img align="center" width="380px" border-radius="20px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
+<p>&nbsp;<img align="center" width="379px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
 
-<p><img align="center" width="380px" border-radius="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&" alt="aeeux" /></p>
+<p><img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&" alt="aeeux" /></p>
