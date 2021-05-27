@@ -86,7 +86,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a>
 </p>
 
-[![aeeux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeeux)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeeux)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical" alt="aeeux" /></p>
 
