@@ -82,11 +82,11 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a> 
   
   <a href="https://webpack.js.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40"     height="40"/> 
   </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeeux)](https://github.com/anuraghazra/github-readme-stats)
+[![aeeux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeeux)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical" alt="aeeux" /></p>
 
