@@ -88,6 +88,12 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact" alt="aeeux" /></p>
 
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&locale=en" alt="aeeux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&" alt="aeeux" /></p>
