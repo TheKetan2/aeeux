@@ -21,9 +21,7 @@
 <!--Visits counter-->
 <h3>
 Thanks for stopping by I hope you'll enjoy my projects! &nbsp; 
-  <a target="_blank" rel="noopener noreferrer" 
-     <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" />
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
