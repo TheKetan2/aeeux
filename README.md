@@ -24,6 +24,8 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a>
 </h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeeux)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 
