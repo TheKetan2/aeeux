@@ -15,6 +15,13 @@
 <a href="https://twitter.com/aeeux_tech" rel="nofollow">
 <img src="https://camo.githubusercontent.com/d187e41f9b00fe3127bc70c57e0bef354ef4c881e96489d3dc8dc0215e5d5ef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3030616365653f7374796c653d666c61742d737175617265266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&amp;logo=Twitter&amp;logoColor=white" style="max-width:100%;">
 </a>
+
+<!--Visits counter-->
+<h3>
+Glad to see you here! &nbsp; 
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f80225b9df4164161ec409acf46dee3afa27b55e78b9c928845e3415ec92093e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d47617075722e4761707572"><img src="https://camo.githubusercontent.com/f80225b9df4164161ec409acf46dee3afa27b55e78b9c928845e3415ec92093e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d47617075722e4761707572" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Aeeux.Aeeux" style="max-width:100%;">
+  </a>
+</h3>
   
 
 <!--START_SECTION:waka-->
