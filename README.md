@@ -1,5 +1,5 @@
+<h2 align="center">Passionate Frontend Developer from Denmark, Copenhagen.</h2>
 <h3 align="center">Passionate Frontend Developer from Denmark, Copenhagen.</h3>
-<h5 align="center">Passionate Frontend Developer from Denmark, Copenhagen.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeeux&label=Profile%20views&color=0e75b6&style=flat" alt="aeeux" /> </p>
 
