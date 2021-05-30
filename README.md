@@ -76,8 +76,6 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a>
 </p>
 
-![aeeux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aeeux&v=2&theme=radical)
-
 <p>&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical" alt="aeeux" /></p>
 
 <p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical" alt="aeeux" /></p>
