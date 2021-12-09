@@ -33,7 +33,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a  href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
   
@@ -81,3 +81,14 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 <p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical" alt="aeeux" /></p>
 
 <p><img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&theme=radical" alt="aeeux" /></p>
+
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
