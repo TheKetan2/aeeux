@@ -26,7 +26,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
   </a>
 </h3>
 
-- 🌱 I’m currently learning **Vue.js, React & React Native**
+- 🌱 I’m currently learning **React & React Native, Web3, blockchain & IPFS**
 
 - 👨‍💻 All of my projects are available at [https://aeeux.tech/](https://aeeux.tech/)
 
